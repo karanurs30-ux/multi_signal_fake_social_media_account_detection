@@ -1,1 +1,8 @@
-# multi_signal_fake_social_media_account_detection
+---
+title: Zephyr
+emoji: 🔍
+colorFrom: blue
+colorTo: red
+sdk: docker
+pinned: false
+---

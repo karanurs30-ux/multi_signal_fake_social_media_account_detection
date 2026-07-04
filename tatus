@@ -1,0 +1,17 @@
+[33m178b087[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m HEAD@{0}: commit: Revert "Add login page and update application features"
+[33mea04788[m HEAD@{1}: commit: Add login page and update application features
+[33mda79250[m[33m ([m[1;31mhf/main[m[33m)[m HEAD@{2}: commit: fix: add python-dotenv
+[33mcdca125[m HEAD@{3}: commit: fix: scoring adjustments for private accounts
+[33m7797193[m HEAD@{4}: commit: fix: move limiter after app init
+[33m06bbc2d[m HEAD@{5}: commit: fix: add flask-limiter
+[33m4496b92[m HEAD@{6}: commit: revert: load model at startup
+[33m1c28fe2[m HEAD@{7}: commit: fix: add rapidfuzz
+[33m585d287[m HEAD@{8}: commit: fix: unpin all requirements
+[33m79ff4ce[m HEAD@{9}: commit: fix: unpin networkx version
+[33m5259afc[m HEAD@{10}: commit: fix: remove kaggle, upgrade to python 3.11
+[33m9285d48[m HEAD@{11}: commit: fix README encoding
+[33m04409d8[m HEAD@{12}: commit (merge): add HF space config
+[33m4887e67[m HEAD@{13}: commit: fix: port binding and lazy load model for deployment
+[33ma5a3ec2[m HEAD@{14}: commit: Add gunicorn
+[33mc78a823[m HEAD@{15}: commit: Prepare project for deployment
+[33m6e43096[m HEAD@{16}: clone: from https://github.com/Ninaad2006/multi_singal_account_detection.git

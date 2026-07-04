@@ -1,0 +1,15 @@
+flask
+flask-cors
+pandas
+requests
+opencv-python-headless
+numpy
+Pillow
+transformers
+torch
+gunicorn
+serpapi
+google-search-results
+rapidfuzz
+flask-limiter
+python-dotenv
